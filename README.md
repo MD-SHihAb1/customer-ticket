@@ -179,5 +179,5 @@ React uses **camelCase** event names and passes **functions** (not strings) as h
 
 ## 🔗 Links
 
-- **Live Link:** YOUR_DEPLOYED_URL_HERE
-- **GitHub Repository:** YOUR_REPO_URL_HERE
+- **Live Link:** https://customer-ticket-jade.vercel.app/
+- **GitHub Repository:** https://github.com/MD-SHihAb1/customer-ticket
